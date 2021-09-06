@@ -1,0 +1,24 @@
+#img-caption {
+    width: 400px;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  body {
+    margin-left: 7vw;
+  }
+  
+  #p id="tribute-info" {
+      justify-self: cente;
+  }
+  
+  @media only screen and (max-width: 800px) 
+  {
+    #image {
+      width: 85vw;
+    }
+  }
